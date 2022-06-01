@@ -1,4 +1,4 @@
-#john-smilga-react-course
+# john-smilga-react-course
 Part of john smilga react project course
 
-#BIRTHDAY REMAINDER CARD
+# BIRTHDAY REMAINDER CARD
