@@ -1,4 +1,4 @@
-#John smilga react course
+# John smilga react course
 
 part of john smilga project course
 
